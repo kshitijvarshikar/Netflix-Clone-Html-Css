@@ -37,6 +37,8 @@ cd Netflix-Clone-Html-Css
 
 No installation or server setup is required.
 
+🌐 Live Demo Try the Tic-Tac-Toe game online: Click here https://kshitijvarshikar.github.io/Netflix-Clone-Html-Css/
+
 📈 Future Enhancements
 
 Add dynamic sliders using JavaScript
